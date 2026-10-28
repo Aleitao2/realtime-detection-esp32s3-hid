@@ -1,0 +1,17 @@
+build/
+managed_components/
+sdkconfig.old
+.vscode/
+.devcontainer/
+*.bin
+*.elf
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# YOLOv5 weights / recordings
+*.pt
+*.avi
+*.mp4
+runs/detect/
